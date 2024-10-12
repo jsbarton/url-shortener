@@ -1,6 +1,6 @@
 # url-shortener
 
-URL Shortener built using Python
+Python url shortener script
 
 ## About URL Hashing
 
